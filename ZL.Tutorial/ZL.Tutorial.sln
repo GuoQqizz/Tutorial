@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZL.Tutorial.Admin", "ZL.Tutorial.Admin\ZL.Tutorial.Admin.csproj", "{047F8A6B-C538-4078-BD75-A7A97E461352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZL.Tutorial.Domain", "ZL.Tutorial.Domain\ZL.Tutorial.Domain.csproj", "{73E8CE6B-1E1A-43D5-93CB-5169A4241018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047F8A6B-C538-4078-BD75-A7A97E461352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047F8A6B-C538-4078-BD75-A7A97E461352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047F8A6B-C538-4078-BD75-A7A97E461352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047F8A6B-C538-4078-BD75-A7A97E461352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E8CE6B-1E1A-43D5-93CB-5169A4241018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E8CE6B-1E1A-43D5-93CB-5169A4241018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E8CE6B-1E1A-43D5-93CB-5169A4241018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E8CE6B-1E1A-43D5-93CB-5169A4241018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FCBCFA6-27BD-4654-B318-85E15B7E0440}
+	EndGlobalSection
+EndGlobal
